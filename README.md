@@ -1,6 +1,8 @@
 
 # Kafka Event Stream
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SoftwareEngineeringDaily/sedaily-event-stream.svg)](https://greenkeeper.io/)
+
 Small proof of concept for using Kafka event streams
 
 ## Set up (local)
